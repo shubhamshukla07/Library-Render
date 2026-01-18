@@ -1,7 +1,10 @@
 streamlit
 opencv-python-headless
 dlib-bin
-face_recognition
+face-recognition-models
+Pillow
+click
+face_recognition --no-deps
 pyzbar
 numpy
 pandas
