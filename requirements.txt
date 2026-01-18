@@ -4,7 +4,7 @@ dlib-bin
 face-recognition-models
 Pillow
 click
-face_recognition --no-deps
+face_recognition
 pyzbar
 numpy
 pandas
